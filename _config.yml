@@ -1,0 +1,23 @@
+name: Jan Kus
+favicon: null
+layout_spectrum: 0.6300054870080203
+typography_spectrum: 0.5330890759360045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03847575862891972
+  lightness: 0.017973882146179676
+  saturation: 0.39552330784499645
+  rhythmicContrast: 0.7996136920992285
+purpose: []
