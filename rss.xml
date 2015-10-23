@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Jan Kus]]></title>
         <description><![CDATA[Jan Kus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jan-kus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 16:30:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 16:32:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jan-kus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<h1>Hello World</h1>]]></description>
+            <link>https://thegrid.ai/jan-kus/hello-world/index.html</link>
+            <guid isPermaLink="false">1c429554-0b8e-4c69-a959-33a6fb333ff0</guid>
+            <pubDate>Fri, 23 Oct 2015 16:30:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/jan-kus/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">101209c2-c5a8-4943-a86e-10ddd6447ec8</guid>
-            <pubDate>Fri, 23 Oct 2015 16:30:29 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2015 16:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
