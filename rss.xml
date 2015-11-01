@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Jan Kus]]></title>
         <description><![CDATA[Jan Kus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jan-kus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 21:33:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Nov 2015 21:37:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jan-kus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/jan-kus/e3b5de5b-605d-4843-a08f-4522eb413a7b/index.html</link>
+            <guid isPermaLink="false">e3b5de5b-605d-4843-a08f-4522eb413a7b</guid>
+            <pubDate>Sun, 01 Nov 2015 21:37:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e662fb9b-1ed1-4b86-a50e-f700de3db029.png" alt="" title="">]]></description>
-            <link>undefined6a3624b6-a3f1-4fb8-86e4-64f6f4b7ff6e/index.html</link>
+            <link>https://thegrid.ai/jan-kus/6a3624b6-a3f1-4fb8-86e4-64f6f4b7ff6e/index.html</link>
             <guid isPermaLink="false">6a3624b6-a3f1-4fb8-86e4-64f6f4b7ff6e</guid>
             <pubDate>Sun, 01 Nov 2015 21:33:05 GMT</pubDate>
         </item>
