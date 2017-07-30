@@ -1,24 +1,93 @@
-name: Jan Kus
-favicon: null
-layout_spectrum: 0.6300054870080203
-typography_spectrum: 0.5330890759360045
-title: Jan Kus
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.4104538776454433
+color:
+  saturation: 0.6146533468285447
+  brandStrength: 0.5594768102626584
+  lightness: 0.6243862464141543
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.5
-  lightness: 0.017973882146179676
-  saturation: 0.39552330784499645
-  rhythmicContrast: 0.7996136920992285
-purpose: []
+layout_spectrum: 0.43855696899816393
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Jan Kus
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Railslove
+    url: 'http://railslove.com'
+    type: external
+  - name: hack.institute
+    url: 'http://hack.institute'
+    type: external
+  - name: Imprint
+    id: a8355024-4f52-429e-9442-27af9bdf87ac
+    type: content
+  - name: Instagram
+    url: 'https://www.instagram.com/jbvkoos/'
+    type: external
+favicon: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Jan Kus
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb8de56509d487b90448af2b97efdb24ae226bb0.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb8de56509d487b90448af2b97efdb24ae226bb0.jpg
+    metadata:
+      datePublished: null
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d323acea24f10ad7a2f07848479e7123/noop.jpg?input=https%3A%2F%2Fwww.carhartt-wip.com%2Fbinaries%2Fcontent%2Fgallery%2Fpagetypes%2Fjournal%2Fjournaltoppromo%2Fjournalentry%2Fss17%2Ftimexxcarharttwip.jpg
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: imgflo.herokuapp.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Co-Founder of Railslove, hackers & thinkers, hack.institute, Interactive
+  Cologne and Coworking Cologne. Craziest man alive! I love building web
+  applications! I'm in love in FinTech stuff and I am kickstarting Startups.
+  Nuff said.
+purpose:
+  - type: contact
+    url: 'mailto:jan.kus@mac.com'
+    label: Get in touch
+  - type: external
+    url: 'https://www.linkedin.com/in/jbvkoos/'
+    label: LinkedIn
+github: true
